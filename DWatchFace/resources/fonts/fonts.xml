@@ -1,0 +1,4 @@
+<fonts>
+	<font id="roboto1" antialias="true" filter="0123456789:" filename="roboto1.fnt"/>
+	<font id="shnweather" antialias="true" filename="shnweather.fnt"/>
+</fonts>
