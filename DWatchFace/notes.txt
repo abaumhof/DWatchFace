@@ -1,1 +1,3 @@
 To debug, see this: https://forums.garmin.com/developer/connect-iq/f/discussion/231129/so-you-have-a-ciq_log-file-but-all-you-see-is-pc-without-a-friendly-stack-trace---what-to-do/1095959
+
+more changes here...
