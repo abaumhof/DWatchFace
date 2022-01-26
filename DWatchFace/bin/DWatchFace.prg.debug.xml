@@ -46,545 +46,636 @@
         <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceApp.mc" id="9" lineNum="18" pc="268436749" symbol="&lt;init&gt;"/>
         <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceApp.mc" id="10" lineNum="115" pc="268436787" symbol="getApp"/>
         <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceApp.mc" id="10" lineNum="116" pc="268436799" symbol="getApp"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="23" pc="268436816" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="24" pc="268436820" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="28" pc="268436841" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="30" pc="268436861" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="31" pc="268436884" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="33" pc="268436907" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="34" pc="268436917" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="35" pc="268436927" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="36" pc="268436937" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="38" pc="268436947" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="39" pc="268436981" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="40" pc="268437015" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="41" pc="268437043" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="43" pc="268437071" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="44" pc="268437094" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="46" pc="268437119" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="47" pc="268437136" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="50" pc="268437152" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="51" pc="268437180" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="52" pc="268437211" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="54" pc="268437242" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="55" pc="268437265" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="59" pc="268437291" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="60" pc="268437295" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="61" pc="268437327" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="62" pc="268437350" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="63" pc="268437384" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="65" pc="268437398" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="66" pc="268437409" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="68" pc="268437426" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="69" pc="268437437" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="71" pc="268437454" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="72" pc="268437465" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="75" pc="268437482" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="76" pc="268437508" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="77" pc="268437557" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="78" pc="268437625" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="79" pc="268437671" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="81" pc="268437727" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="12" pc="268445691" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="15" lineNum="8" pc="268437740" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="15" lineNum="9" pc="268437744" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="15" lineNum="13" pc="268437765" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="16" lineNum="16" pc="268437786" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="16" lineNum="19" pc="268437790" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="16" lineNum="20" pc="268437819" symbol="draw"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="16" lineNum="6" pc="268445570" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="26" pc="268437832" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="27" pc="268437836" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="35" pc="268437854" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="37" pc="268437857" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="37" pc="268437881" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="39" pc="268437894" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="40" pc="268437937" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="42" pc="268437980" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="43" pc="268438023" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="45" pc="268438066" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="46" pc="268438094" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="18" lineNum="47" pc="268438101" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="19" lineNum="52" pc="268438115" symbol="onLayout"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="19" lineNum="53" pc="268438119" symbol="onLayout"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="20" lineNum="59" pc="268438157" symbol="onShow"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="62" pc="268438162" symbol="th"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="64" pc="268438166" symbol="th"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="65" pc="268438194" symbol="th"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="69" pc="268438198" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="71" pc="268438202" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="72" pc="268438237" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="73" pc="268438244" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="74" pc="268438251" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="75" pc="268438258" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="76" pc="268438265" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="77" pc="268438272" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="79" pc="268438279" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="80" pc="268438293" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="81" pc="268438311" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="82" pc="268438334" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="83" pc="268438353" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="84" pc="268438372" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="85" pc="268438404" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="87" pc="268438464" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="89" pc="268438483" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="90" pc="268438502" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="92" pc="268438534" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="93" pc="268438563" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="94" pc="268438588" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="95" pc="268438613" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="96" pc="268438645" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="98" pc="268438711" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="100" pc="268438736" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="101" pc="268438761" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="103" pc="268438793" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="104" pc="268438807" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="106" pc="268438820" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="107" pc="268438834" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="112" pc="268438847" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="113" pc="268438858" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="114" pc="268438866" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="115" pc="268438873" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="116" pc="268438896" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="118" pc="268438906" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="119" pc="268438925" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="120" pc="268438957" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="122" pc="268438970" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="123" pc="268438974" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="126" pc="268438981" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="134" pc="268438988" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="135" pc="268439001" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="136" pc="268439008" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="139" pc="268439034" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="140" pc="268439041" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="141" pc="268439052" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="145" pc="268439059" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="146" pc="268439077" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="147" pc="268439101" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="151" pc="268439147" symbol="initTidesHeight"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="155" pc="268439158" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="156" pc="268439162" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="157" pc="268439169" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="158" pc="268439176" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="159" pc="268439183" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="161" pc="268439190" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="162" pc="268439197" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="163" pc="268439204" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="164" pc="268439211" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="165" pc="268439218" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="170" pc="268439235" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="171" pc="268439249" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="173" pc="268439265" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="174" pc="268439280" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="177" pc="268439347" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="179" pc="268439455" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="180" pc="268439475" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="183" pc="268439514" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="185" pc="268439588" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="186" pc="268439608" symbol="drawTides"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="198" pc="268439664" symbol="degToCompass"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="199" pc="268439668" symbol="degToCompass"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="201" pc="268439884" symbol="degToCompass"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="202" pc="268439909" symbol="degToCompass"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="204" pc="268439919" symbol="degToCompass"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="209" pc="268439926" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="210" pc="268439930" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="211" pc="268439937" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="211" pc="268439962" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="212" pc="268439972" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="212" pc="268439983" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="213" pc="268439993" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="213" pc="268440046" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="214" pc="268440056" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="214" pc="268440081" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="215" pc="268440091" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="215" pc="268440102" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="216" pc="268440112" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="216" pc="268440179" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="217" pc="268440189" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="217" pc="268440284" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="218" pc="268440294" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="218" pc="268440333" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="219" pc="268440343" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="219" pc="268440438" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="220" pc="268440448" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="222" pc="268440455" symbol="WI"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="226" pc="268440459" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="227" pc="268440463" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="229" pc="268440470" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="230" pc="268440481" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="233" pc="268440498" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="234" pc="268440548" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="235" pc="268440575" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="238" pc="268440605" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="240" pc="268440625" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="245" pc="268440642" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="246" pc="268440678" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="247" pc="268440694" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="248" pc="268440718" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="252" pc="268440734" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="253" pc="268440762" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="254" pc="268440786" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="258" pc="268440799" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="259" pc="268440850" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="260" pc="268440870" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="265" pc="268440895" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="266" pc="268440931" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="269" pc="268440950" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="270" pc="268440992" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="275" pc="268441008" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="276" pc="268441015" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="277" pc="268441032" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="278" pc="268441042" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="279" pc="268441067" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="280" pc="268441078" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="291" pc="268441094" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="293" pc="268441138" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="303" pc="268441186" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="305" pc="268441222" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="318" pc="268441242" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="320" pc="268441266" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="322" pc="268441286" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="324" pc="268441310" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="326" pc="268441344" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="329" pc="268441368" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="331" pc="268441382" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="332" pc="268441406" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="334" pc="268441460" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="335" pc="268441484" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="336" pc="268441537" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="338" pc="268441572" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="340" pc="268441589" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="341" pc="268441613" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="342" pc="268441666" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="343" pc="268441692" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="344" pc="268441725" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="346" pc="268441758" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="349" pc="268441791" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="350" pc="268441821" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="354" pc="268441838" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="355" pc="268441862" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="356" pc="268441915" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="358" pc="268442015" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="361" pc="268442032" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="362" pc="268442056" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="363" pc="268442109" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="365" pc="268442182" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="368" pc="268442199" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="369" pc="268442223" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="370" pc="268442236" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="372" pc="268442252" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="375" pc="268442272" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="376" pc="268442306" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="378" pc="268442350" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="379" pc="268442367" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="380" pc="268442374" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="383" pc="268442444" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="384" pc="268442458" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="392" pc="268442476" symbol="onHide"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="28" lineNum="396" pc="268442481" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="401" pc="268442486" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="15" pc="268445589" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="17" pc="268445607" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="20" pc="268445621" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="31" lineNum="13" pc="268436297" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="31" lineNum="14" pc="268436301" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="31" lineNum="15" pc="268436323" symbol="initialize"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="18" pc="268436334" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="19" pc="268436338" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="20" pc="268436345" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="22" pc="268436359" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="23" pc="268436393" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="33" pc="268436443" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="36" pc="268436467" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="32" lineNum="37" pc="268436488" symbol="onTemporalEvent"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="47" pc="268436503" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="49" pc="268436507" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="51" pc="268436507" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="53" pc="268436518" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="55" pc="268436536" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="57" pc="268436543" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="58" pc="268436567" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="33" lineNum="61" pc="268436577" symbol="responseCallback"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="34" lineNum="64" pc="268436596" symbol="makeRequest"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="34" lineNum="65" pc="268436600" symbol="makeRequest"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="34" lineNum="70" pc="268436603" symbol="makeRequest"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="34" lineNum="82" pc="268436685" symbol="makeRequest"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="34" lineNum="83" pc="268436709" symbol="makeRequest"/>
-        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="34" lineNum="10" pc="268436768" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="38" lineNum="14" pc="268442491" symbol="initialize"/>
-        <entry filename="Rez" id="38" lineNum="15" pc="268442495" symbol="initialize"/>
-        <entry filename="Rez" id="39" lineNum="18" pc="268442520" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="19" pc="268442524" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="20" pc="268442537" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="22" pc="268442550" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="23" pc="268442586" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="24" pc="268442624" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="26" pc="268442660" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="27" pc="268442696" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="29" pc="268442764" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="30" pc="268442800" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="32" pc="268442868" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="33" pc="268442904" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="35" pc="268442972" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="36" pc="268443008" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="38" pc="268443103" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="39" pc="268443139" symbol="draw"/>
-        <entry filename="Rez" id="39" lineNum="12" pc="268445667" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="43" lineNum="60" pc="268443229" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="62" pc="268443241" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="63" pc="268443254" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="65" pc="268443267" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="66" pc="268443291" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="67" pc="268443331" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="68" pc="268443344" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="70" pc="268443360" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="71" pc="268443384" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="72" pc="268443520" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="73" pc="268443659" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="74" pc="268443798" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="75" pc="268443937" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="76" pc="268444076" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="77" pc="268444215" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="78" pc="268444354" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="79" pc="268444493" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="80" pc="268444632" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="81" pc="268444784" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="82" pc="268444936" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="83" pc="268445088" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="84" pc="268445240" symbol="WatchFace"/>
-        <entry filename="Rez" id="43" lineNum="86" pc="268445392" symbol="WatchFace"/>
-        <entry filename="Rez" id="45" lineNum="1" pc="268445642" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="26" pc="268436816" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="27" pc="268436820" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="31" pc="268436841" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="33" pc="268436858" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="35" pc="268436869" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="37" pc="268436888" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="38" pc="268436904" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="39" pc="268436915" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="40" pc="268436928" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="43" pc="268436944" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="45" pc="268436964" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="46" pc="268436987" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="48" pc="268437010" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="49" pc="268437020" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="50" pc="268437030" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="51" pc="268437040" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="53" pc="268437050" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="54" pc="268437084" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="55" pc="268437118" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="56" pc="268437146" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="58" pc="268437174" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="59" pc="268437197" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="61" pc="268437222" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="62" pc="268437239" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="65" pc="268437255" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="66" pc="268437283" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="67" pc="268437314" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="69" pc="268437345" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="12" lineNum="70" pc="268437368" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="74" pc="268437394" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="75" pc="268437398" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="76" pc="268437430" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="77" pc="268437453" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="78" pc="268437487" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="80" pc="268437501" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="81" pc="268437512" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="83" pc="268437529" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="84" pc="268437540" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="86" pc="268437557" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="87" pc="268437568" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="90" pc="268437585" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="92" pc="268437613" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="93" pc="268437639" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="94" pc="268437688" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="95" pc="268437756" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="96" pc="268437802" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="13" lineNum="98" pc="268437858" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="14" lineNum="101" pc="268437871" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="14" lineNum="102" pc="268437875" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="15" lineNum="106" pc="268437886" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="15" lineNum="107" pc="268437890" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BatteryHelper.mc" id="15" lineNum="12" pc="268446229" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="17" lineNum="8" pc="268437901" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="17" lineNum="9" pc="268437905" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="17" lineNum="13" pc="268437926" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="18" lineNum="16" pc="268437947" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="18" lineNum="19" pc="268437951" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="18" lineNum="20" pc="268437980" symbol="draw"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceBackground.mc" id="18" lineNum="6" pc="268446050" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="20" lineNum="37" pc="268437993" symbol="random"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="20" lineNum="38" pc="268437997" symbol="random"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="20" lineNum="39" pc="268438014" symbol="random"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="42" pc="268438021" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="43" pc="268438025" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="45" pc="268438043" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="46" pc="268438074" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="48" pc="268438091" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="50" pc="268438102" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="52" pc="268438121" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="60" pc="268438137" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="62" pc="268438140" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="62" pc="268438164" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="64" pc="268438177" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="65" pc="268438220" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="66" pc="268438263" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="68" pc="268438306" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="69" pc="268438349" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="71" pc="268438392" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="72" pc="268438420" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="21" lineNum="73" pc="268438427" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="78" pc="268438441" symbol="onLayout"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="22" lineNum="79" pc="268438445" symbol="onLayout"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="23" lineNum="85" pc="268438483" symbol="onShow"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="88" pc="268438488" symbol="th"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="90" pc="268438492" symbol="th"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="24" lineNum="91" pc="268438520" symbol="th"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="94" pc="268438524" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="96" pc="268438528" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="97" pc="268438535" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="98" pc="268438542" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="101" pc="268438549" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="102" pc="268438628" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="109" pc="268438716" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="111" pc="268438735" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="112" pc="268438765" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="113" pc="268438784" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="114" pc="268438816" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="115" pc="268438848" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="116" pc="268438880" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="117" pc="268438912" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="119" pc="268438944" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="126" pc="268439002" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="127" pc="268439021" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="128" pc="268439037" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="129" pc="268439056" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="130" pc="268439075" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="131" pc="268439086" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="132" pc="268439116" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="133" pc="268439124" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="135" pc="268439149" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="137" pc="268439171" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="138" pc="268439184" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="139" pc="268439195" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="140" pc="268439225" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="141" pc="268439233" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="143" pc="268439258" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="25" lineNum="145" pc="268439280" symbol="calculate_nexttides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="153" pc="268439310" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="155" pc="268439314" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="156" pc="268439349" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="157" pc="268439356" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="158" pc="268439363" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="159" pc="268439370" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="160" pc="268439377" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="161" pc="268439384" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="163" pc="268439391" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="164" pc="268439405" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="165" pc="268439423" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="166" pc="268439446" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="167" pc="268439465" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="168" pc="268439484" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="169" pc="268439516" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="171" pc="268439576" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="173" pc="268439595" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="174" pc="268439614" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="176" pc="268439646" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="177" pc="268439675" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="178" pc="268439700" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="179" pc="268439725" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="180" pc="268439757" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="182" pc="268439823" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="184" pc="268439848" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="185" pc="268439873" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="187" pc="268439905" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="188" pc="268439919" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="190" pc="268439932" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="191" pc="268439946" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="196" pc="268439959" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="197" pc="268439970" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="198" pc="268439978" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="199" pc="268439985" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="200" pc="268440008" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="202" pc="268440018" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="203" pc="268440037" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="204" pc="268440069" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="206" pc="268440082" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="207" pc="268440086" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="210" pc="268440093" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="218" pc="268440100" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="219" pc="268440113" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="220" pc="268440120" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="223" pc="268440146" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="224" pc="268440153" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="225" pc="268440164" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="229" pc="268440171" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="230" pc="268440189" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="231" pc="268440213" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="26" lineNum="235" pc="268440259" symbol="initTidesHeight"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="239" pc="268440270" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="240" pc="268440274" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="241" pc="268440281" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="242" pc="268440288" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="243" pc="268440295" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="245" pc="268440302" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="246" pc="268440309" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="247" pc="268440316" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="248" pc="268440323" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="249" pc="268440330" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="250" pc="268440337" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="252" pc="268440354" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="253" pc="268440365" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="254" pc="268440372" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="255" pc="268440379" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="256" pc="268440386" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="257" pc="268440393" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="262" pc="268440403" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="263" pc="268440417" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="265" pc="268440433" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="266" pc="268440448" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="269" pc="268440515" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="271" pc="268440626" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="273" pc="268440646" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="276" pc="268440678" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="279" pc="268440760" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="27" lineNum="280" pc="268440780" symbol="drawTides"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="28" lineNum="292" pc="268440836" symbol="degToCompass"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="28" lineNum="293" pc="268440840" symbol="degToCompass"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="28" lineNum="295" pc="268441056" symbol="degToCompass"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="28" lineNum="296" pc="268441081" symbol="degToCompass"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="28" lineNum="298" pc="268441091" symbol="degToCompass"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="303" pc="268441098" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="304" pc="268441102" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="305" pc="268441109" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="305" pc="268441134" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="306" pc="268441144" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="306" pc="268441155" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="307" pc="268441165" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="307" pc="268441218" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="308" pc="268441228" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="308" pc="268441253" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="309" pc="268441263" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="309" pc="268441274" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="310" pc="268441284" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="310" pc="268441351" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="311" pc="268441361" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="311" pc="268441456" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="312" pc="268441466" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="312" pc="268441505" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="313" pc="268441515" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="313" pc="268441610" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="314" pc="268441620" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="29" lineNum="316" pc="268441627" symbol="WI"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="320" pc="268441631" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="321" pc="268441635" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="322" pc="268441642" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="324" pc="268441649" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="325" pc="268441660" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="330" pc="268441677" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="331" pc="268441688" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="333" pc="268441699" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="334" pc="268441725" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="338" pc="268441748" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="339" pc="268441798" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="340" pc="268441825" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="343" pc="268441855" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="345" pc="268441875" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="350" pc="268441892" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="351" pc="268441928" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="352" pc="268441944" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="353" pc="268441968" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="357" pc="268441984" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="358" pc="268442012" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="359" pc="268442036" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="363" pc="268442049" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="364" pc="268442100" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="365" pc="268442120" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="370" pc="268442145" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="371" pc="268442181" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="374" pc="268442200" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="375" pc="268442242" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="380" pc="268442258" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="381" pc="268442265" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="382" pc="268442282" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="383" pc="268442292" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="384" pc="268442317" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="385" pc="268442328" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="396" pc="268442344" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="398" pc="268442388" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="408" pc="268442436" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="410" pc="268442472" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="413" pc="268442492" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="438" pc="268442528" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="439" pc="268442548" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="440" pc="268442555" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="442" pc="268442562" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="443" pc="268442586" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="444" pc="268442593" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="447" pc="268442603" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="448" pc="268442621" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="453" pc="268442639" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="459" pc="268442725" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="466" pc="268442823" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="467" pc="268442852" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="468" pc="268442930" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="470" pc="268442966" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="475" pc="268442994" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="476" pc="268443030" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="477" pc="268443089" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="478" pc="268443148" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="479" pc="268443207" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="480" pc="268443266" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="482" pc="268443325" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="485" pc="268443361" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="486" pc="268443390" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="487" pc="268443459" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="488" pc="268443528" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="489" pc="268443597" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="490" pc="268443666" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="491" pc="268443735" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="496" pc="268443771" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="499" pc="268443877" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="501" pc="268443930" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="504" pc="268444055" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="507" pc="268444124" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="509" pc="268444153" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="510" pc="268444206" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="514" pc="268444293" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="518" pc="268444362" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="521" pc="268444398" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="523" pc="268444451" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="526" pc="268444603" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="530" pc="268444672" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="531" pc="268444744" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="534" pc="268444816" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="535" pc="268444829" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="539" pc="268444845" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="541" pc="268444917" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="542" pc="268444924" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="543" pc="268444931" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="544" pc="268444942" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="545" pc="268444949" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="547" pc="268444959" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="548" pc="268444966" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="550" pc="268445019" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="552" pc="268445097" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="553" pc="268445130" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="555" pc="268445157" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="558" pc="268445184" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="560" pc="268445208" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="575" pc="268445277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="578" pc="268445305" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="579" pc="268445319" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="30" lineNum="581" pc="268445336" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="31" lineNum="589" pc="268445357" symbol="onHide"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="32" lineNum="593" pc="268445362" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="32" lineNum="594" pc="268445366" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="32" lineNum="595" pc="268445376" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="32" lineNum="596" pc="268445392" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="32" lineNum="597" pc="268445410" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="601" pc="268445423" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="602" pc="268445427" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="603" pc="268445437" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="604" pc="268445453" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="605" pc="268445471" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="15" pc="268446069" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="17" pc="268446087" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="22" pc="268446101" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="32" pc="268446121" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\DWatchFaceView.mc" id="33" lineNum="33" pc="268446150" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="35" lineNum="13" pc="268436297" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="35" lineNum="14" pc="268436301" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="35" lineNum="15" pc="268436323" symbol="initialize"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="18" pc="268436334" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="19" pc="268436338" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="20" pc="268436345" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="22" pc="268436359" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="23" pc="268436393" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="33" pc="268436443" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="36" pc="268436467" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="36" lineNum="37" pc="268436488" symbol="onTemporalEvent"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="47" pc="268436503" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="49" pc="268436507" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="51" pc="268436507" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="53" pc="268436518" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="55" pc="268436536" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="57" pc="268436543" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="58" pc="268436567" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="37" lineNum="61" pc="268436577" symbol="responseCallback"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="38" lineNum="64" pc="268436596" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="38" lineNum="65" pc="268436600" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="38" lineNum="70" pc="268436603" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="38" lineNum="82" pc="268436685" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="38" lineNum="83" pc="268436709" symbol="makeRequest"/>
+        <entry filename="C:\\Users\\andre\\git\\repository\\DWatchFace\\source\\BackgroundServiceDelegate.mc" id="38" lineNum="10" pc="268436768" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="42" lineNum="14" pc="268445484" symbol="initialize"/>
+        <entry filename="Rez" id="42" lineNum="15" pc="268445488" symbol="initialize"/>
+        <entry filename="Rez" id="43" lineNum="18" pc="268445513" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="19" pc="268445517" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="20" pc="268445553" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="21" pc="268445585" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="23" pc="268445621" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="24" pc="268445657" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="26" pc="268445689" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="27" pc="268445725" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="29" pc="268445757" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="30" pc="268445793" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="32" pc="268445825" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="33" pc="268445861" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="35" pc="268445893" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="36" pc="268445929" symbol="draw"/>
+        <entry filename="Rez" id="43" lineNum="12" pc="268446205" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="47" lineNum="58" pc="268445962" symbol="WatchFace"/>
+        <entry filename="Rez" id="47" lineNum="60" pc="268445974" symbol="WatchFace"/>
+        <entry filename="Rez" id="47" lineNum="61" pc="268445998" symbol="WatchFace"/>
+        <entry filename="Rez" id="47" lineNum="63" pc="268446022" symbol="WatchFace"/>
+        <entry filename="Rez" id="49" lineNum="1" pc="268446180" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
-        <entry id="32" method="true" symbol="initTidesHeight"/>
+        <entry id="42" method="true" symbol="initTidesHeight"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="34" method="true" symbol="degToCompass"/>
-        <entry id="8389346" symbol="text"/>
+        <entry id="44" method="true" symbol="degToCompass"/>
         <entry field="true" id="10" symbol="canDoBG"/>
-        <entry field="true" id="56" symbol="dipY"/>
-        <entry field="true" id="55" symbol="dipX"/>
+        <entry field="true" id="67" symbol="dipY"/>
+        <entry field="true" id="66" symbol="dipX"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8389671" symbol="screenWidth"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-        <entry field="true" id="46" symbol="ColorRed"/>
+        <entry field="true" id="35" symbol="inLowPower"/>
+        <entry id="41" method="true" symbol="calculate_nexttides"/>
+        <entry field="true" id="57" symbol="ColorRed"/>
+        <entry field="true" id="34" symbol="is_epix"/>
         <entry field="true" id="11" symbol="inBackground"/>
+        <entry field="true" id="8388938" symbol="month"/>
         <entry id="18" object="true" symbol="BgbgServiceDelegate"/>
-        <entry field="true" id="50" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="61" symbol="MilitaryFormatTitle"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="38" symbol="RAND_MAX"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="45" symbol="ColorBlue"/>
-        <entry id="41" object="true" symbol="scaffolding"/>
+        <entry field="true" id="56" symbol="ColorBlue"/>
+        <entry id="51" object="true" symbol="scaffolding"/>
         <entry field="true" id="13" symbol="OSDATA"/>
-        <entry field="true" id="54" symbol="AppName"/>
+        <entry field="true" id="65" symbol="AppName"/>
         <entry id="8388633" module="true" symbol="ActivityMonitor"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8389594" symbol="headers"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="16" object="true" symbol="BatteryHelper"/>
-        <entry field="true" id="43" symbol="shnweather"/>
+        <entry field="true" id="53" symbol="shnweather"/>
         <entry id="8390147" object="true" symbol="ServiceDelegate"/>
+        <entry id="8389338" symbol="minute"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry field="true" id="61" symbol="noseCapY"/>
-        <entry field="true" id="60" symbol="noseCapX"/>
+        <entry field="true" id="30" symbol="DeaswatchFont"/>
+        <entry field="true" id="72" symbol="noseCapY"/>
+        <entry field="true" id="71" symbol="noseCapX"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
         <entry id="8390148" method="true" symbol="onTemporalEvent"/>
-        <entry field="true" id="28" symbol="sunrise_bitmap"/>
+        <entry field="true" id="31" symbol="sunrise_bitmap"/>
         <entry id="17" object="true" symbol="DWatchFaceView"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-        <entry field="true" id="8389065" symbol="locY"/>
-        <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8391489" module="true" symbol="Weather"/>
         <entry field="true" id="19" symbol="ts"/>
-        <entry id="31" method="true" symbol="th"/>
+        <entry id="40" method="true" symbol="th"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
-        <entry id="8389348" symbol="font"/>
         <entry id="8390169" method="true" symbol="getServiceDelegate"/>
-        <entry id="37" module="true" symbol="Menus"/>
+        <entry id="47" module="true" symbol="Menus"/>
         <entry id="8389275" method="true" symbol="getApp"/>
-        <entry field="true" id="49" symbol="ColorDarkGray"/>
+        <entry field="true" id="60" symbol="ColorDarkGray"/>
         <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-        <entry field="true" id="30" symbol="lastupdated"/>
+        <entry id="39" method="true" symbol="random"/>
+        <entry field="true" id="8389672" symbol="screenHeight"/>
+        <entry field="true" id="33" symbol="lastupdated"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
         <entry field="true" id="22" symbol="initTides"/>
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
-        <entry id="8389349" symbol="justification"/>
         <entry id="21" method="true" symbol="makeRequest"/>
-        <entry field="true" id="53" symbol="ColorWhite"/>
+        <entry field="true" id="64" symbol="ColorWhite"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
         <entry id="20" method="true" symbol="responseCallback"/>
-        <entry field="true" id="51" symbol="ColorBlack"/>
+        <entry field="true" id="62" symbol="ColorBlack"/>
         <entry id="8388637" module="true" symbol="Communications"/>
-        <entry field="true" id="52" symbol="DWatchfaceServerTitle"/>
+        <entry field="true" id="63" symbol="DWatchfaceServerTitle"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
         <entry id="8390170" method="true" symbol="onBackgroundData"/>
-        <entry id="35" method="true" symbol="WI"/>
+        <entry id="45" method="true" symbol="WI"/>
         <entry field="true" id="9" symbol="bgdata"/>
         <entry id="8389844" symbol="responseType"/>
-        <entry field="true" id="27" symbol="WeatherIconFont"/>
+        <entry field="true" id="29" symbol="WeatherIconFont"/>
         <entry id="15" object="true" symbol="DWatchFaceApp"/>
-        <entry id="33" method="true" symbol="drawTides"/>
+        <entry id="43" method="true" symbol="drawTides"/>
         <entry id="8388786" method="true" symbol="method"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="59" symbol="noseCapHeight"/>
+        <entry field="true" id="70" symbol="noseCapHeight"/>
+        <entry field="true" id="36" symbol="canBurnIn"/>
+        <entry field="true" id="54" symbol="deaswatch"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="38" symbol="SunsetIcon"/>
-        <entry field="true" id="57" symbol="dipLength"/>
+        <entry field="true" id="48" symbol="SunsetIcon"/>
+        <entry field="true" id="8388720" symbol="hour"/>
+        <entry field="true" id="37" symbol="upTop"/>
+        <entry field="true" id="68" symbol="dipLength"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry id="8389068" method="true" symbol="draw"/>
-        <entry field="true" id="40" symbol="LauncherIcon"/>
+        <entry field="true" id="50" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389123" method="true" symbol="onShow"/>
         <entry field="true" id="14" symbol="globalServerUrl"/>
-        <entry field="true" id="39" symbol="SunriseIcon"/>
+        <entry field="true" id="49" symbol="SunriseIcon"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry field="true" id="48" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="59" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="8391194" symbol="requiresBurnInProtection"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="25" symbol="tidemin"/>
+        <entry field="true" id="27" symbol="tidemin"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="58" symbol="dipHeight"/>
-        <entry field="true" id="24" symbol="tidemax"/>
+        <entry field="true" id="69" symbol="dipHeight"/>
+        <entry field="true" id="26" symbol="tidemax"/>
         <entry id="8388641" module="true" symbol="Math"/>
-        <entry field="true" id="44" symbol="ColorLightGray"/>
+        <entry field="true" id="25" symbol="nexttide2"/>
+        <entry field="true" id="24" symbol="nexttide1"/>
+        <entry field="true" id="55" symbol="ColorLightGray"/>
         <entry id="8391701" method="true" symbol="setAntiAlias"/>
         <entry field="true" id="23" symbol="tidebars"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry field="true" id="26" symbol="smallNumFont"/>
-        <entry id="8389347" symbol="color"/>
-        <entry field="true" id="42" symbol="roboto1"/>
+        <entry field="true" id="28" symbol="smallNumFont"/>
+        <entry field="true" id="8388939" symbol="day"/>
+        <entry field="true" id="52" symbol="roboto1"/>
         <entry field="true" id="12" symbol="initialBackgroundTask"/>
-        <entry field="true" id="47" symbol="ForegroundColorTitle"/>
-        <entry id="36" module="true" symbol="Layouts"/>
+        <entry field="true" id="58" symbol="ForegroundColorTitle"/>
+        <entry field="true" id="8388940" symbol="year"/>
+        <entry id="46" module="true" symbol="Layouts"/>
         <entry id="8388636" module="true" symbol="Attention"/>
-        <entry field="true" id="29" symbol="sunset_bitmap"/>
+        <entry field="true" id="32" symbol="sunset_bitmap"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8389125" method="true" symbol="onHide"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
     <localVars>
-        <entry endPc="268435567" name="url" stackId="2" startPc="268435460"/>
-        <entry endPc="268435567" name="my_url" stackId="1" startPc="268435460"/>
-        <entry arg="true" endPc="268435573" name="state" stackId="1" startPc="268435568"/>
-        <entry arg="true" endPc="268435578" name="state" stackId="1" startPc="268435573"/>
-        <entry endPc="268435715" name="nextTime" stackId="2" startPc="268435653"/>
-        <entry endPc="268435749" name="lastTime" stackId="1" startPc="268435629"/>
-        <entry endPc="268436233" name="now" stackId="2" startPc="268435820"/>
-        <entry endPc="268436233" name="ts" stackId="3" startPc="268435820"/>
-        <entry arg="true" endPc="268436234" name="data" stackId="1" startPc="268435816"/>
-        <entry endPc="268437290" name="yAspect" stackId="7" startPc="268436820"/>
-        <entry endPc="268437290" name="yScale" stackId="5" startPc="268436820"/>
-        <entry endPc="268437290" name="xScale" stackId="4" startPc="268436820"/>
-        <entry endPc="268437290" name="screenWidth" stackId="2" startPc="268436820"/>
-        <entry endPc="268437290" name="xAspect" stackId="6" startPc="268436820"/>
-        <entry endPc="268437290" name="screenHeight" stackId="3" startPc="268436820"/>
-        <entry endPc="268437290" name="dictionary" stackId="1" startPc="268436820"/>
-        <entry endPc="268437739" name="color" stackId="5" startPc="268437295"/>
-        <entry endPc="268437739" name="chargeLevelFill" stackId="4" startPc="268437295"/>
-        <entry endPc="268437739" name="batteryChargeLevel" stackId="2" startPc="268437295"/>
-        <entry endPc="268437739" name="isCharging" stackId="3" startPc="268437295"/>
-        <entry arg="true" endPc="268437740" name="dc" stackId="1" startPc="268437291"/>
-        <entry endPc="268437785" name="dictionary" stackId="1" startPc="268437744"/>
-        <entry arg="true" endPc="268437832" name="dc" stackId="1" startPc="268437786"/>
-        <entry endPc="268438114" name="temp" stackId="1" startPc="268437836"/>
-        <entry endPc="268438114" name="myServerdata" stackId="2" startPc="268437836"/>
-        <entry arg="true" endPc="268438157" name="dc" stackId="1" startPc="268438115"/>
-        <entry endPc="268438197" name="tt" stackId="5" startPc="268438166"/>
-        <entry arg="true" endPc="268438198" name="w" stackId="3" startPc="268438162"/>
-        <entry arg="true" endPc="268438198" name="a" stackId="1" startPc="268438162"/>
-        <entry arg="true" endPc="268438198" name="t" stackId="4" startPc="268438162"/>
-        <entry arg="true" endPc="268438198" name="e" stackId="2" startPc="268438162"/>
-        <entry endPc="268438967" name="no" stackId="14" startPc="268438866"/>
-        <entry endPc="268439134" name="i" stackId="16" startPc="268439077"/>
-        <entry endPc="268439134" name="start" stackId="15" startPc="268438311"/>
-        <entry endPc="268439147" name="r" stackId="13" startPc="268438311"/>
-        <entry endPc="268439157" name="nextoffsetmin" stackId="11" startPc="268438202"/>
-        <entry endPc="268439157" name="nextoffsetindex" stackId="12" startPc="268438202"/>
-        <entry endPc="268439157" name="offset" stackId="7" startPc="268438202"/>
-        <entry endPc="268439157" name="min" stackId="3" startPc="268438202"/>
-        <entry endPc="268439157" name="tt" stackId="10" startPc="268438202"/>
-        <entry endPc="268439157" name="e" stackId="5" startPc="268438202"/>
-        <entry endPc="268439157" name="max" stackId="4" startPc="268438202"/>
-        <entry endPc="268439157" name="offsetmin" stackId="8" startPc="268438202"/>
-        <entry endPc="268439157" name="a" stackId="2" startPc="268438202"/>
-        <entry endPc="268439157" name="w" stackId="6" startPc="268438202"/>
-        <entry endPc="268439157" name="t" stackId="9" startPc="268438202"/>
-        <entry arg="true" endPc="268439158" name="tides" stackId="1" startPc="268438198"/>
-        <entry endPc="268439660" name="i" stackId="11" startPc="268439280"/>
-        <entry endPc="268439663" name="start" stackId="7" startPc="268439162"/>
-        <entry endPc="268439663" name="width" stackId="3" startPc="268439162"/>
-        <entry endPc="268439663" name="n" stackId="4" startPc="268439162"/>
-        <entry endPc="268439663" name="dimheight" stackId="2" startPc="268439162"/>
-        <entry endPc="268439663" name="offsetX" stackId="8" startPc="268439162"/>
-        <entry endPc="268439663" name="myTime" stackId="10" startPc="268439162"/>
-        <entry endPc="268439663" name="w" stackId="6" startPc="268439162"/>
-        <entry endPc="268439663" name="height" stackId="5" startPc="268439162"/>
-        <entry endPc="268439663" name="multiplier" stackId="9" startPc="268439162"/>
-        <entry arg="true" endPc="268439664" name="dc" stackId="1" startPc="268439158"/>
-        <entry endPc="268439925" name="arr" stackId="2" startPc="268439668"/>
-        <entry endPc="268439925" name="valX" stackId="4" startPc="268439668"/>
-        <entry endPc="268439925" name="val" stackId="3" startPc="268439668"/>
-        <entry arg="true" endPc="268439926" name="deg" stackId="1" startPc="268439664"/>
-        <entry endPc="268440458" name="T" stackId="2" startPc="268439930"/>
-        <entry arg="true" endPc="268440459" name="v" stackId="1" startPc="268439926"/>
-        <entry endPc="268440639" name="url" stackId="3" startPc="268440548"/>
-        <entry endPc="268440731" name="blu" stackId="4" startPc="268440678"/>
-        <entry endPc="268440799" name="myServerdata" stackId="5" startPc="268440734"/>
-        <entry endPc="268442475" name="wi" stackId="19" startPc="268440463"/>
-        <entry endPc="268442475" name="viewHour" stackId="10" startPc="268440463"/>
-        <entry endPc="268442475" name="viewWindData" stackId="17" startPc="268440463"/>
-        <entry endPc="268442475" name="cast" stackId="20" startPc="268440463"/>
-        <entry endPc="268442475" name="datestr" stackId="2" startPc="268440463"/>
-        <entry endPc="268442475" name="clockTime" stackId="7" startPc="268440463"/>
-        <entry endPc="268442475" name="viewStatusData" stackId="18" startPc="268440463"/>
-        <entry endPc="268442475" name="timeFormat" stackId="6" startPc="268440463"/>
-        <entry endPc="268442475" name="viewSwellData" stackId="16" startPc="268440463"/>
-        <entry endPc="268442475" name="viewSurfData" stackId="14" startPc="268440463"/>
-        <entry endPc="268442475" name="viewMinutes" stackId="11" startPc="268440463"/>
-        <entry endPc="268442475" name="today" stackId="9" startPc="268440463"/>
-        <entry endPc="268442475" name="viewBattery" stackId="13" startPc="268440463"/>
-        <entry endPc="268442475" name="hours" stackId="8" startPc="268440463"/>
-        <entry endPc="268442475" name="viewSunData" stackId="15" startPc="268440463"/>
-        <entry endPc="268442475" name="viewDate" stackId="12" startPc="268440463"/>
-        <entry arg="true" endPc="268442476" name="dc" stackId="1" startPc="268440459"/>
-        <entry endPc="268436502" name="url" stackId="2" startPc="268436338"/>
-        <entry endPc="268436502" name="my_url" stackId="1" startPc="268436338"/>
-        <entry endPc="268436595" name="res" stackId="3" startPc="268436507"/>
-        <entry arg="true" endPc="268436596" name="responseCode" stackId="1" startPc="268436503"/>
-        <entry arg="true" endPc="268436596" name="data" stackId="2" startPc="268436503"/>
-        <entry endPc="268436747" name="options" stackId="3" startPc="268436600"/>
-        <entry endPc="268436747" name="params" stackId="2" startPc="268436600"/>
-        <entry arg="true" endPc="268436748" name="url" stackId="1" startPc="268436596"/>
-        <entry endPc="268443228" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268442524"/>
-        <entry endPc="268443228" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268442524"/>
-        <entry arg="true" endPc="268443229" name="dc" stackId="1" startPc="268442520"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_DateLabel" stackId="14" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_SUNT5Label" stackId="20" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_sunData" stackId="8" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_custom_drawable_83897506116696493981" stackId="4" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_statusLabel" stackId="15" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_TimeLabelMinutes" stackId="13" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_SUNT1Label" stackId="16" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_TimeLabelHour" stackId="12" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_swellData" stackId="10" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_SUNT2Label" stackId="17" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_custom_drawable_scaffolding" stackId="5" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_surfData" stackId="9" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_SUNT3Label" stackId="18" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_windData" stackId="11" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_SUNT4Label" stackId="19" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_custom_drawable_50214454719053270073" stackId="6" startPc="268443241"/>
-        <entry endPc="268445569" name="rez_cmp_local_text_batteryLabel" stackId="7" startPc="268443241"/>
-        <entry arg="true" endPc="268445570" name="dc" stackId="1" startPc="268443229"/>
+        <entry endPc="268435566" name="url" stackId="2" startPc="268435460"/>
+        <entry endPc="268435566" name="my_url" stackId="1" startPc="268435460"/>
+        <entry arg="true" endPc="268435572" name="state" stackId="1" startPc="268435568"/>
+        <entry arg="true" endPc="268435577" name="state" stackId="1" startPc="268435573"/>
+        <entry endPc="268435714" name="nextTime" stackId="2" startPc="268435653"/>
+        <entry endPc="268435748" name="lastTime" stackId="1" startPc="268435629"/>
+        <entry endPc="268436232" name="now" stackId="2" startPc="268435820"/>
+        <entry endPc="268436232" name="ts" stackId="3" startPc="268435820"/>
+        <entry arg="true" endPc="268436233" name="data" stackId="1" startPc="268435816"/>
+        <entry endPc="268437392" name="yAspect" stackId="8" startPc="268436820"/>
+        <entry endPc="268437392" name="sSettings" stackId="2" startPc="268436820"/>
+        <entry endPc="268437392" name="yScale" stackId="6" startPc="268436820"/>
+        <entry endPc="268437392" name="xScale" stackId="5" startPc="268436820"/>
+        <entry endPc="268437392" name="screenWidth" stackId="3" startPc="268436820"/>
+        <entry endPc="268437392" name="xAspect" stackId="7" startPc="268436820"/>
+        <entry endPc="268437392" name="screenHeight" stackId="4" startPc="268436820"/>
+        <entry endPc="268437392" name="dictionary" stackId="1" startPc="268436820"/>
+        <entry endPc="268437869" name="color" stackId="5" startPc="268437398"/>
+        <entry endPc="268437869" name="chargeLevelFill" stackId="4" startPc="268437398"/>
+        <entry endPc="268437869" name="batteryChargeLevel" stackId="2" startPc="268437398"/>
+        <entry endPc="268437869" name="isCharging" stackId="3" startPc="268437398"/>
+        <entry arg="true" endPc="268437870" name="dc" stackId="1" startPc="268437394"/>
+        <entry endPc="268437945" name="dictionary" stackId="1" startPc="268437905"/>
+        <entry arg="true" endPc="268437992" name="dc" stackId="1" startPc="268437947"/>
+        <entry endPc="268438019" name="r" stackId="2" startPc="268437997"/>
+        <entry arg="true" endPc="268438020" name="m" stackId="1" startPc="268437993"/>
+        <entry endPc="268438439" name="temp" stackId="2" startPc="268438025"/>
+        <entry endPc="268438439" name="sSettings" stackId="1" startPc="268438025"/>
+        <entry endPc="268438439" name="myServerdata" stackId="3" startPc="268438025"/>
+        <entry arg="true" endPc="268438482" name="dc" stackId="1" startPc="268438441"/>
+        <entry endPc="268438522" name="tt" stackId="5" startPc="268438492"/>
+        <entry arg="true" endPc="268438523" name="w" stackId="3" startPc="268438488"/>
+        <entry arg="true" endPc="268438523" name="a" stackId="1" startPc="268438488"/>
+        <entry arg="true" endPc="268438523" name="t" stackId="4" startPc="268438488"/>
+        <entry arg="true" endPc="268438523" name="e" stackId="2" startPc="268438488"/>
+        <entry endPc="268439292" name="height" stackId="17" startPc="268439037"/>
+        <entry endPc="268439292" name="ishigh" stackId="16" startPc="268439037"/>
+        <entry endPc="268439295" name="m" stackId="10" startPc="268438765"/>
+        <entry endPc="268439295" name="mi" stackId="13" startPc="268438765"/>
+        <entry endPc="268439295" name="date" stackId="15" startPc="268438765"/>
+        <entry endPc="268439295" name="options" stackId="14" startPc="268438765"/>
+        <entry endPc="268439295" name="h" stackId="12" startPc="268438765"/>
+        <entry endPc="268439295" name="d" stackId="11" startPc="268438765"/>
+        <entry endPc="268439295" name="y" stackId="9" startPc="268438765"/>
+        <entry endPc="268439308" name="r" stackId="8" startPc="268438765"/>
+        <entry endPc="268439308" name="max" stackId="4" startPc="268438528"/>
+        <entry endPc="268439308" name="now" stackId="7" startPc="268438528"/>
+        <entry endPc="268439308" name="i" stackId="3" startPc="268438528"/>
+        <entry endPc="268439308" name="t" stackId="2" startPc="268438528"/>
+        <entry endPc="268439308" name="nowG" stackId="5" startPc="268438528"/>
+        <entry endPc="268439308" name="optionsG" stackId="6" startPc="268438528"/>
+        <entry arg="true" endPc="268439309" name="tides" stackId="1" startPc="268438524"/>
+        <entry endPc="268440078" name="no" stackId="14" startPc="268439978"/>
+        <entry endPc="268440245" name="i" stackId="16" startPc="268440189"/>
+        <entry endPc="268440245" name="start" stackId="15" startPc="268439423"/>
+        <entry endPc="268440258" name="r" stackId="13" startPc="268439423"/>
+        <entry endPc="268440268" name="nextoffsetmin" stackId="11" startPc="268439314"/>
+        <entry endPc="268440268" name="nextoffsetindex" stackId="12" startPc="268439314"/>
+        <entry endPc="268440268" name="offset" stackId="7" startPc="268439314"/>
+        <entry endPc="268440268" name="min" stackId="3" startPc="268439314"/>
+        <entry endPc="268440268" name="tt" stackId="10" startPc="268439314"/>
+        <entry endPc="268440268" name="e" stackId="5" startPc="268439314"/>
+        <entry endPc="268440268" name="max" stackId="4" startPc="268439314"/>
+        <entry endPc="268440268" name="offsetmin" stackId="8" startPc="268439314"/>
+        <entry endPc="268440268" name="a" stackId="2" startPc="268439314"/>
+        <entry endPc="268440268" name="w" stackId="6" startPc="268439314"/>
+        <entry endPc="268440268" name="t" stackId="9" startPc="268439314"/>
+        <entry arg="true" endPc="268440269" name="tides" stackId="1" startPc="268439310"/>
+        <entry endPc="268440831" name="i" stackId="12" startPc="268440448"/>
+        <entry endPc="268440834" name="start" stackId="7" startPc="268440274"/>
+        <entry endPc="268440834" name="width" stackId="3" startPc="268440274"/>
+        <entry endPc="268440834" name="n" stackId="4" startPc="268440274"/>
+        <entry endPc="268440834" name="offsetY" stackId="9" startPc="268440274"/>
+        <entry endPc="268440834" name="dimheight" stackId="2" startPc="268440274"/>
+        <entry endPc="268440834" name="offsetX" stackId="8" startPc="268440274"/>
+        <entry endPc="268440834" name="myTime" stackId="11" startPc="268440274"/>
+        <entry endPc="268440834" name="w" stackId="6" startPc="268440274"/>
+        <entry endPc="268440834" name="height" stackId="5" startPc="268440274"/>
+        <entry endPc="268440834" name="multiplier" stackId="10" startPc="268440274"/>
+        <entry arg="true" endPc="268440835" name="dc" stackId="1" startPc="268440270"/>
+        <entry endPc="268441096" name="arr" stackId="2" startPc="268440840"/>
+        <entry endPc="268441096" name="valX" stackId="4" startPc="268440840"/>
+        <entry endPc="268441096" name="val" stackId="3" startPc="268440840"/>
+        <entry arg="true" endPc="268441097" name="deg" stackId="1" startPc="268440836"/>
+        <entry endPc="268441629" name="T" stackId="2" startPc="268441102"/>
+        <entry arg="true" endPc="268441630" name="v" stackId="1" startPc="268441098"/>
+        <entry endPc="268441888" name="url" stackId="4" startPc="268441798"/>
+        <entry endPc="268441980" name="blu" stackId="5" startPc="268441928"/>
+        <entry endPc="268442048" name="myServerdata" stackId="6" startPc="268441984"/>
+        <entry endPc="268445276" name="dy" stackId="16" startPc="268442994"/>
+        <entry endPc="268445276" name="dx" stackId="15" startPc="268442994"/>
+        <entry endPc="268445355" name="datestr" stackId="2" startPc="268441635"/>
+        <entry endPc="268445355" name="HXoffset" stackId="12" startPc="268441635"/>
+        <entry endPc="268445355" name="clockTime" stackId="8" startPc="268441635"/>
+        <entry endPc="268445355" name="timeFormat" stackId="7" startPc="268441635"/>
+        <entry endPc="268445355" name="rmulti2" stackId="14" startPc="268441635"/>
+        <entry endPc="268445355" name="rmulti1" stackId="13" startPc="268441635"/>
+        <entry endPc="268445355" name="BurnOffset" stackId="3" startPc="268441635"/>
+        <entry endPc="268445355" name="today" stackId="10" startPc="268441635"/>
+        <entry endPc="268445355" name="HYoffset" stackId="11" startPc="268441635"/>
+        <entry endPc="268445355" name="hours" stackId="9" startPc="268441635"/>
+        <entry arg="true" endPc="268445356" name="dc" stackId="1" startPc="268441631"/>
+        <entry endPc="268445421" name="drawable" stackId="1" startPc="268445366"/>
+        <entry endPc="268445482" name="drawable" stackId="1" startPc="268445427"/>
+        <entry endPc="268436501" name="url" stackId="2" startPc="268436338"/>
+        <entry endPc="268436501" name="my_url" stackId="1" startPc="268436338"/>
+        <entry endPc="268436594" name="res" stackId="3" startPc="268436507"/>
+        <entry arg="true" endPc="268436595" name="responseCode" stackId="1" startPc="268436503"/>
+        <entry arg="true" endPc="268436595" name="data" stackId="2" startPc="268436503"/>
+        <entry endPc="268436746" name="options" stackId="3" startPc="268436600"/>
+        <entry endPc="268436746" name="params" stackId="2" startPc="268436600"/>
+        <entry arg="true" endPc="268436747" name="url" stackId="1" startPc="268436596"/>
+        <entry arg="true" endPc="268445961" name="dc" stackId="1" startPc="268445513"/>
+        <entry endPc="268446048" name="rez_cmp_local_custom_drawable_32084608613777314651" stackId="3" startPc="268445974"/>
+        <entry endPc="268446048" name="rez_cmp_local_custom_drawable_24863684819655559719" stackId="2" startPc="268445974"/>
+        <entry arg="true" endPc="268446049" name="dc" stackId="1" startPc="268445962"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="SunsetIcon"/>
@@ -592,6 +683,7 @@
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="roboto1"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="shnweather"/>
+        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="deaswatch"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
@@ -610,15 +702,15 @@
         <dataEntry label="globals/BgbgServiceDelegate" offset="325" parentId="globals" symbolId="BgbgServiceDelegate" type="class"/>
         <dataEntry label="globals/Background" offset="1082" parentId="globals" symbolId="Background" type="class"/>
         <dataEntry label="globals/DWatchFaceView" offset="1137" parentId="globals" symbolId="DWatchFaceView" type="class"/>
-        <dataEntry label="globals/Rez" offset="1344" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/Rez/Drawables" offset="1423" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Drawables/scaffolding" offset="1486" parentId="Drawables" symbolId="scaffolding" type="class"/>
-        <dataEntry label="globals/Rez/Menus" offset="1541" parentId="Rez" symbolId="Menus" type="module"/>
-        <dataEntry label="globals/Rez/Fonts" offset="1572" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="1619" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="1658" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="1689" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/BatteryHelper" offset="1808" parentId="globals" symbolId="BatteryHelper" type="class"/>
+        <dataEntry label="globals/Rez" offset="1440" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="1519" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/scaffolding" offset="1582" parentId="Drawables" symbolId="scaffolding" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="1637" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="1668" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="1723" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="1762" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="1793" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BatteryHelper" offset="1912" parentId="globals" symbolId="BatteryHelper" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="initialize" parent="DWatchFaceApp">
@@ -655,11 +747,21 @@
             <param id="dc"/>
             <documentation/>
         </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="BatteryHelper">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="BatteryHelper">
+            <documentation/>
+        </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="Background">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="draw" parent="Background">
             <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="random" parent="DWatchFaceView">
+            <param id="m"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="DWatchFaceView">
@@ -677,6 +779,10 @@
             <param id="e"/>
             <param id="w"/>
             <param id="t"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="calculate_nexttides" parent="DWatchFaceView">
+            <param id="tides"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initTidesHeight" parent="DWatchFaceView">
@@ -702,10 +808,10 @@
         <functionEntry accessMode="public" name="onHide" parent="DWatchFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onExitSleep" parent="DWatchFaceView">
+        <functionEntry accessMode="public" name="onEnterSleep" parent="DWatchFaceView">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" name="onEnterSleep" parent="DWatchFaceView">
+        <functionEntry accessMode="public" name="onExitSleep" parent="DWatchFaceView">
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="BgbgServiceDelegate">

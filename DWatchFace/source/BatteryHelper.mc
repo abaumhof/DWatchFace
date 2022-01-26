@@ -19,11 +19,26 @@ class BatteryHelper extends WatchUi.Drawable {
 	hidden var noseCapHeight = 7;
 	hidden var noseCapX = 76;
 	hidden var noseCapY = 218;
+	hidden var is_epix=true;
+	var inLowPower=false;
+    var canBurnIn=false;
 	
 	function initialize() {
 		var dictionary = {
 			:identifier => "BatteryHelper"
 		};
+		
+		var sSettings=System.getDeviceSettings();
+        //first check if the setting is available on the current device
+        if(sSettings has :requiresBurnInProtection) {
+            //get the state of the setting      
+            canBurnIn=sSettings.requiresBurnInProtection;
+        }
+        is_epix = canBurnIn;
+		if (is_epix) {
+			self.dipX = 150.00;
+			self.dipY = -106.00;
+		}
 		
 		Drawable.initialize(dictionary);
 		
@@ -72,12 +87,23 @@ class BatteryHelper extends WatchUi.Drawable {
 			color = Graphics.COLOR_DK_RED;
 		}
 		
-		dc.setColor(color, Graphics.COLOR_TRANSPARENT);
-		dc.drawRoundedRectangle(self.dipX, self.dipY, self.dipLength, self.dipHeight, 2);	//Main battery body
-		dc.drawRectangle(self.dipX + 1, self.dipY + 1, self.dipLength - 2, self.dipHeight -2);		// Inner frame
-		dc.fillRoundedRectangle(self.noseCapX, self.noseCapY, 5, self.noseCapHeight, 2);		// Nose Cap
-		dc.fillRectangle(self.dipX + 2, self.dipY + 2, chargeLevelFill, self.dipHeight -4);		// Charge Level
-		
+		if(inLowPower && canBurnIn) {
+        } else {
+			dc.setColor(color, Graphics.COLOR_TRANSPARENT);
+			dc.drawRoundedRectangle(self.dipX, self.dipY, self.dipLength, self.dipHeight, 2);	//Main battery body
+			dc.drawRectangle(self.dipX + 1, self.dipY + 1, self.dipLength - 2, self.dipHeight -2);		// Inner frame
+			dc.fillRoundedRectangle(self.noseCapX, self.noseCapY, 5, self.noseCapHeight, 2);		// Nose Cap
+			dc.fillRectangle(self.dipX + 2, self.dipY + 2, chargeLevelFill, self.dipHeight -4);		// Charge Level
+		}
 		dc.clear();
 	}
+	
+	function onEnterSleep() {
+        inLowPower=true;
+    }
+    
+    // This method is called when the device exits sleep mode.
+    function onExitSleep() {
+        inLowPower=false;
+    }
 }

@@ -2,65 +2,74 @@
 	<drawable class="Background" />
 
 	<!-- lines -->
+	<!-- 
 	<drawable id="scaffolding"></drawable>
-
+ 	-->
+ 	
 	<drawable class="BatteryHelper"></drawable>
-	<label id="batteryLabel" x="60%" y="0" font="Graphics.FONT_XTINY"
+	 
+	<!-- it is in the code now
+	<label id="batteryLabel" x="60%" y="0" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_CENTER"
 		color="Graphics.COLOR_LT_GRAY" />
-
-	<label id="sunData" x="43%" y="11%" font="Graphics.FONT_XTINY"
+	<label id="sunData" x="43%" y="11%" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_RIGHT"
 		color="Graphics.COLOR_WHITE" />
-	<label id="surfData" x="57%" y="11%" font="Graphics.FONT_XTINY"
+	<label id="surfData" x="57%" y="11%" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
 
-	<label id="swellData" x="43%" y="21%" font="Graphics.FONT_XTINY"
+	<label id="swellData" x="43%" y="21%" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_RIGHT"
 		color="Graphics.COLOR_WHITE" />
-	<label id="windData" x="57%" y="21%" font="Graphics.FONT_XTINY"
+	<label id="windData" x="57%" y="21%" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
+	-->
 	<!-- <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" 
 		justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" 
 		/> -->
+	<!-- 
 	<label id="TimeLabelHour" x="44%" y="32%"
-		font="Graphics.FONT_NUMBER_THAI_HOT"
+		font="Graphics.FONT_SYSTEM_NUMBER_THAI_HOT"
 		justification="Graphics.TEXT_JUSTIFY_CENTER"
 		color="Graphics.COLOR_WHITE" />
 	<label id="TimeLabelMinutes" x="72%" y="30%"
-		font="Graphics.FONT_NUMBER_MILD"
+		font="Graphics.FONT_SYSTEM_NUMBER_MILD"
 		justification="Graphics.TEXT_JUSTIFY_CENTER"
 		color="Graphics.COLOR_WHITE" />
 
-	<label id="DateLabel" x="72%" y="50%" font="Graphics.FONT_XTINY"
+	<label id="DateLabel" x="72%" y="50%" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_CENTER"
 		color="Graphics.COLOR_WHITE" />
-	
-	<label id="statusLabel" x="50%" y="94%" font="Graphics.FONT_XTINY"
+	 -->
+	<!--  
+	<label id="statusLabel" x="50%" y="94%" font="Graphics.FONT_SYSTEM_XTINY"
 		justification="Graphics.TEXT_JUSTIFY_CENTER"
 		color="Graphics.COLOR_WHITE" />
-		
+	 -->
 	<!-- SUNTS  -->
-	<label id="SUNT1Label" x="12%" y="32%" font="Graphics.FONT_TINY"
+	<!-- this is now in the code 
+	<label id="SUNT1Label" x="12%" y="32%" font="Graphics.FONT_SYSTEM_TINY"
 		text = "S"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
-	<label id="SUNT2Label" x="12%" y="40%" font="Graphics.FONT_TINY"
+	 
+	<label id="SUNT2Label" x="12%" y="40%" font="Graphics.FONT_SYSTEM_TINY"
 		text = "U"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
-	<label id="SUNT3Label" x="12%" y="48%" font="Graphics.FONT_TINY"
+	<label id="SUNT3Label" x="12%" y="48%" font="Graphics.FONT_SYSTEM_TINY"
 		text = "N"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
-	<label id="SUNT4Label" x="12%" y="56%" font="Graphics.FONT_TINY"
+	<label id="SUNT4Label" x="12%" y="56%" font="Graphics.FONT_SYSTEM_TINY"
 		text = "T"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
-	<label id="SUNT5Label" x="12%" y="64%" font="Graphics.FONT_TINY"
+	<label id="SUNT5Label" x="12%" y="64%" font="Graphics.FONT_SYSTEM_TINY"
 		text = "S"
 		justification="Graphics.TEXT_JUSTIFY_LEFT"
 		color="Graphics.COLOR_WHITE" />
+	-->
 </layout>

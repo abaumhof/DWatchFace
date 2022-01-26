@@ -1,4 +1,8 @@
 <fonts>
+<!-- 
 	<font id="roboto1" antialias="true" filter="0123456789:" filename="roboto1.fnt"/>
+ -->
+ 	<font id="roboto1" antialias="true" filename="roboto1.fnt"/>
 	<font id="shnweather" antialias="true" filename="shnweather.fnt"/>
+	<font id="deaswatch" antialias="true" filename="deaswatch_font.fnt"/>
 </fonts>

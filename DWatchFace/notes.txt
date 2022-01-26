@@ -1,3 +1,8 @@
 To debug, see this: https://forums.garmin.com/developer/connect-iq/f/discussion/231129/so-you-have-a-ciq_log-file-but-all-you-see-is-pc-without-a-friendly-stack-trace---what-to-do/1095959
 
 more changes here...
+
+Fenix 6X Pro (280x280)
+Epix (416x416)
+
+font is 132pixel
