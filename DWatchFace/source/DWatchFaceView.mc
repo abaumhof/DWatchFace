@@ -17,6 +17,7 @@ class DWatchFaceView extends WatchUi.WatchFace {
 	var tidebars = [];
 	var nexttide1 = "";
 	var nexttide2 = "";
+	var nexttide = "";
 	var tidemax=0.0;
 	var tidemin=100.0;
 	var smallNumFont=Graphics.FONT_XTINY;
@@ -127,20 +128,24 @@ class DWatchFaceView extends WatchUi.WatchFace {
     		if (date.greaterThan(now)) {
     			var ishigh = tides["tides"][r]["isHigh"];
     			var height = tides["tides"][r]["height"];
+    			// H 21:13 - 1.2m
     			if (i == 0) {
-    				nexttide1 = "" +  height.format("%.1f");
+    				//nexttide1 = "" +  height.format("%.1f");
     				if (ishigh == true) { 
-    					nexttide1 = nexttide1 + "m H";
+    					//nexttide1 = "H " + h + ":" + mi + " - " + height.format("%.1f") + "m";
+    					nexttide1 = "" +  height.format("%.1f") + "m H";
     				} else { 
-    					nexttide1 = nexttide1 + "m L";
+    					nexttide1 = "" +  height.format("%.1f") + "m L";
     				}
+    				nexttide = "" + h + ":" + mi;
     				i++;
     			} else if (i == 1) {
     				nexttide2 = "" +  height.format("%.1f");
     				if (ishigh == true) { 
-    					nexttide2 = nexttide2 + "m H";
+    					//nexttide1 = "H " + h + ":" + mi + " - " + height.format("%.1f") + "m";
+    					nexttide2 = "" +  height.format("%.1f") + "m H";
     				} else { 
-    					nexttide2 = nexttide2 + "m L";
+    					nexttide2 = "" +  height.format("%.1f") + "m L";
     				}
     				i++;
     			}
@@ -446,6 +451,25 @@ class DWatchFaceView extends WatchUi.WatchFace {
         
         var rmulti1 = random(24);
         var rmulti2 = random(24);
+        
+        rmulti1 = 10;
+        rmulti2 = 10;
+        
+        rmulti1 = 25;
+        rmulti2 = 0;
+        var dateoffsetx=0;
+        
+        if(inLowPower) {
+			if(canBurnIn) {
+				if (upTop) {  
+					BurnOffset = 4;
+				} else {
+					BurnOffset = -4;
+				}
+				dateoffsetx = 20;
+			}
+		}
+		
         // hours
         //var viewHour = View.findDrawableById("TimeLabelHour") as Text;
         ////viewHour.setColor(getApp().getProperty("ForegroundColor") as Number);
@@ -456,7 +480,7 @@ class DWatchFaceView extends WatchUi.WatchFace {
         //var viewMinutes = View.findDrawableById("TimeLabelMinutes") as Text;
         ////viewMinutes.setColor(getApp().getProperty("ForegroundColor") as Number);
         //viewMinutes.setText(clockTime.min.format("%02d"));
-        dc.drawText(rmulti1*BurnOffset + screenWidth*0.72, rmulti2*BurnOffset + screenHeight*0.30, Graphics.FONT_SYSTEM_NUMBER_MILD, clockTime.min.format("%02d"), Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(rmulti1*BurnOffset + screenWidth*0.72 - dateoffsetx, rmulti2*BurnOffset + screenHeight*0.30, Graphics.FONT_SYSTEM_NUMBER_MILD, clockTime.min.format("%02d"), Graphics.TEXT_JUSTIFY_CENTER);
         
         // date
         //var viewDate = View.findDrawableById("DateLabel") as Text;
@@ -464,7 +488,7 @@ class DWatchFaceView extends WatchUi.WatchFace {
         ////viewDate.setText("TUE 06");
         //viewDate.setText(datestr);
         dc.setColor(0xFF9933, Graphics.COLOR_BLACK);
-        dc.drawText(rmulti1*BurnOffset + screenWidth*0.72, rmulti2*BurnOffset + screenHeight*0.48, Graphics.FONT_SYSTEM_XTINY, datestr, Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(rmulti1*BurnOffset + screenWidth*0.72 - dateoffsetx, rmulti2*BurnOffset + screenHeight*0.48, Graphics.FONT_SYSTEM_XTINY, datestr, Graphics.TEXT_JUSTIFY_CENTER);
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
         
         if(inLowPower && canBurnIn) {
@@ -536,7 +560,8 @@ class DWatchFaceView extends WatchUi.WatchFace {
 			}
 			//var viewStatusData= View.findDrawableById("statusLabel") as Text;
 			//viewStatusData.setText(lastupdated);
-			dc.drawText(screenWidth*0.50, screenHeight*0.94, Graphics.FONT_SYSTEM_XTINY, lastupdated, Graphics.TEXT_JUSTIFY_CENTER);
+						
+			dc.drawText(screenWidth*0.50, screenHeight*0.94, Graphics.FONT_SYSTEM_XTINY, lastupdated, Graphics.TEXT_JUSTIFY_CENTER); 
 			
 			var dx=54;
 			var dy=30;
